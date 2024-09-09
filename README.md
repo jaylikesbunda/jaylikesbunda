@@ -7,7 +7,7 @@ info = {
 current_projects = {
     "FuckYou FM": {
         "url": "https://fuckyoufm.net",
-        "description": "An irreverent online radio station."
+        "description": "An online radio station."
     },
     "Fuck_Declan": {
         "url": "https://fuckyoudeki.net",
@@ -18,7 +18,7 @@ current_projects = {
     },
     "CollectFlix": {
         "url": "https://collectflix.net",
-        "description": "A platform for enthusiasts to track and share their physical media collections."
+        "description": "An application for enthusiasts to digitise and track their physical media collections."
     },
     "Flipper IRDB Formatter": {
         "description": "A tool for formatting IR codes for the Flipper Zero device."
