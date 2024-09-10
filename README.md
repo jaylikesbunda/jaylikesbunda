@@ -20,8 +20,8 @@ current_projects = {
         "url": "https://collectflix.net",
         "description": "An application for enthusiasts to digitise and track their physical media collections."
     },
-    "Flipper IRDB Formatter": {
-        "description": "A tool for formatting IR codes for the Flipper Zero device."
+    "Flipper Web Tools": {
+        "url": "https://flippertools.net",
     }
 }
 
