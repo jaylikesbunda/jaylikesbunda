@@ -27,6 +27,6 @@ current_projects = {
 
 future_projects = [
     "Logitech Harmony database dumping",
-    "something random i'll think of at 10pm"
+    "idk stuff"
 ]
 ```
