@@ -27,6 +27,6 @@ current_projects = {
 
 future_projects = [
     "Logitech Harmony database dumping",
-    "idk stuff"
+    "collecting outdated media and remote codes"
 ]
 ```
