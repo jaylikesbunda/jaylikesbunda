@@ -17,3 +17,4 @@ current_projects = {
     }
 }
 ```
+[![jay candel profile views](https://u8views.com/api/v1/github/profiles/133104319/views/day-week-month-total-count.svg)](https://u8views.com/github/jaylikesbunda)
